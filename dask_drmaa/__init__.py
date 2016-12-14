@@ -1,1 +1,1 @@
-from .core import DRMAACluster, SGECluster
+from .core import DRMAACluster, SGECluster, SLURMCluster
